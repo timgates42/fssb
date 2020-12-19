@@ -1,5 +1,5 @@
 /**
- * utils.c - Defines for various utlities.  Part of the FSSB project.
+ * utils.c - Defines for various utilities.  Part of the FSSB project.
  *
  * Copyright (C) 2016 Adhityaa Chandrasekar
  *
